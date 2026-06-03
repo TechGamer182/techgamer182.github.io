@@ -1,3 +1,4 @@
-theme: jekyll-theme-console-nord
+remote_theme: b2a3e8/jekyll-theme-console
+style: nord
 title: TechGamer182's homepage
 description: My Github-hosted Homepage!
